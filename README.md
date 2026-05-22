@@ -57,7 +57,7 @@ pip install -r requirements.txt
 Starta notebooken:
 
 ```bash
-jupyter notebook Notebook.ipynb
+Notebook.ipynb
 ```
 
 Kör sedan notebook-cellerna uppifrån och ned.
