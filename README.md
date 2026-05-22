@@ -31,8 +31,6 @@ Projektet använder Fashion MNIST. Ett dataset med 70 000 gråskalebilder (28x28
 
 ```
 
-Deep_Learning_Project/
-│
 ├── Notebook.ipynb
 ├── requirements.txt
 ├── README.md
