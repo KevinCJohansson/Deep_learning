@@ -46,7 +46,6 @@ Klona projektet:
 
 ```bash
 git clone https://github.com/KevinCJohansson/Deep_learning.git
-cd Deep_Learning_Project
 ```
 
 Skapa virtuell miljö:
