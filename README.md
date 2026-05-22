@@ -40,7 +40,28 @@ Projektet använder Fashion MNIST. Ett dataset med 70 000 gråskalebilder (28x28
 
 ---
 
-## Installation
+## Hur man öppnar projektet
+
+Klona projektet:
+
+```bash
+git clone <https://github.com/KevinCJohansson/Deep_learning.git>
+cd Deep_Learning_Project
+```
+
+Skapa virtuell miljö:
+
+```bash
+python -m venv .venv
+```
+
+Aktivera miljön:
+
+Windows:
+
+```bash
+.venv\Scripts\activate
+```
 
 Installera beroenden:
 
@@ -48,24 +69,16 @@ Installera beroenden:
 pip install -r requirements.txt
 ```
 
----
+Öppna sedan:
 
-## Köra projektet
-
-Starta notebooken:
-
-```bash
+```
 Notebook.ipynb
 ```
 
-Kör sedan notebook-cellerna uppifrån och ned.
+Notebooken innehåller redan träningsresultat, grafer och analyser från projektet.
 
 ---
 
-## Python-version
+## Miljö
 
-Projektet utvecklades med:
-
-```
 Python 3.13.7
-```
