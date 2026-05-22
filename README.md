@@ -6,13 +6,15 @@ Detta projekt genomfördes som en del av kursen Deep Learning.
 
 Syftet var att bygga och förbättra en CNN-modell för Fashion MNIST genom att testa olika modellförändringar och regulariseringsmetoder för att analysera hur modellens prestande och generalisering påverkas.
 
-Fokusområdet för vår grupp vad: Regularisering
+Fokusområdet för vår grupp var: Regularisering.
 
 ---
 
 ## Dataset
 
-Projektet använder Fashion MNIST. Ett dataset med 70 000 gråskalebilder (28x28 pixlar) fördelade över 10 olika klädkategorier.
+Projektet använder Fashion MNIST. 
+
+Ett dataset med 70 000 gråskalebilder (28x28 pixlar) fördelade över 10 olika klädkategorier.
 
 ---
 
