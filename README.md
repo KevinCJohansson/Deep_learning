@@ -45,7 +45,7 @@ Projektet använder Fashion MNIST. Ett dataset med 70 000 gråskalebilder (28x28
 Klona projektet:
 
 ```bash
-git clone <https://github.com/KevinCJohansson/Deep_learning.git>
+git clone https://github.com/KevinCJohansson/Deep_learning.git
 cd Deep_Learning_Project
 ```
 
