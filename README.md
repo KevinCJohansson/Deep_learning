@@ -24,7 +24,7 @@ Ett dataset med 70 000 gråskalebilder (28x28 pixlar) fördelade över 10 olika 
 |-------|---------|
 | Wendy Mermet | Del 1–2 |
 | Kevin Johansson | Del 3–4 |
-| Henri Hörköö | Del 5 |
+| Henri Hörkkö | Del 5 |
 | Rasmus Svensson | Del 6–7 |
 
 ---
