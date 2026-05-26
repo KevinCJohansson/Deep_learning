@@ -36,6 +36,7 @@ Ett dataset med 70 000 gråskalebilder (28x28 pixlar) fördelade över 10 olika 
 ├── Notebook.ipynb
 ├── requirements.txt
 ├── README.md
+├── Deep Learning - Grupp 2 (Regularisering).pptx
 └── .gitignore
 
 ```
